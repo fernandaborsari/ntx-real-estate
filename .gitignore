@@ -16,5 +16,9 @@ node_modules/
 dist/
 build/
 
+# Data files
+*.json
+*.csv
+
 # Claude
 .claude/
