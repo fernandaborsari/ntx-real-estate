@@ -21,17 +21,6 @@ End-to-end data projects built with real public datasets — from raw ingestion 
 
 ---
 
-### 🎓 [Academic Stress — ETL Pipeline](./projects/academic_stress/)
-
-**ETL pipeline** processing a student academic stress dataset from Kaggle.
-
-- Data extraction, cleaning, and standardization using Python and Pandas
-- Structured output ready for SQL-based analysis and reporting
-- Version-controlled workflow with raw and processed data separation
-
-`Python` `Pandas` `SQL` `Jupyter Notebook` `Data Cleaning` `ETL`
-
----
 
 ## Tech Stack
 
